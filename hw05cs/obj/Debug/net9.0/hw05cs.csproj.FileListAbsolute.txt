@@ -1,0 +1,14 @@
+D:\W05_653120100107\hw05cs\bin\Debug\net9.0\hw05cs.exe
+D:\W05_653120100107\hw05cs\bin\Debug\net9.0\hw05cs.deps.json
+D:\W05_653120100107\hw05cs\bin\Debug\net9.0\hw05cs.runtimeconfig.json
+D:\W05_653120100107\hw05cs\bin\Debug\net9.0\hw05cs.dll
+D:\W05_653120100107\hw05cs\bin\Debug\net9.0\hw05cs.pdb
+D:\W05_653120100107\hw05cs\obj\Debug\net9.0\hw05cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\W05_653120100107\hw05cs\obj\Debug\net9.0\hw05cs.AssemblyInfoInputs.cache
+D:\W05_653120100107\hw05cs\obj\Debug\net9.0\hw05cs.AssemblyInfo.cs
+D:\W05_653120100107\hw05cs\obj\Debug\net9.0\hw05cs.csproj.CoreCompileInputs.cache
+D:\W05_653120100107\hw05cs\obj\Debug\net9.0\hw05cs.dll
+D:\W05_653120100107\hw05cs\obj\Debug\net9.0\refint\hw05cs.dll
+D:\W05_653120100107\hw05cs\obj\Debug\net9.0\hw05cs.pdb
+D:\W05_653120100107\hw05cs\obj\Debug\net9.0\hw05cs.genruntimeconfig.cache
+D:\W05_653120100107\hw05cs\obj\Debug\net9.0\ref\hw05cs.dll
